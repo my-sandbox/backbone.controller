@@ -4,4 +4,4 @@
 
 //Backbone.Controller = Backbone.View.extend();
 Backbone.Controller = function() {};
-Backbone.Controller.extend = Backbone.View.extend();
+Backbone.Controller.extend = Backbone.View.extend;
